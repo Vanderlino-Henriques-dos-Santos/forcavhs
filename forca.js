@@ -515,4 +515,5 @@ async function piscarBotaoJogarNovamente(querJogar){
     else{
         document.getElementById("jogarNovamente").style.display = "none";
     }
+    
 }
